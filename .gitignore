@@ -3,12 +3,8 @@ dist
 .output
 .tanstack
 .vercel
+.nitro
 .grok
-.project_id
-.node_modules.lock
-screenshots
-attachments
-artifacts
 *.local
 .DS_Store
 .env
